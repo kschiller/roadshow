@@ -32,3 +32,5 @@ git remote --add stable <URL of the stable repo>
 gradle clean build
 or 
 ./gradlew clean build
+
+### Updated!
